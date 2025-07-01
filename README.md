@@ -46,7 +46,7 @@ src/
 │   ├── ui/           # Reusable UI components (atoms)
 │   └── crypto/       # Domain-specific components (molecules)
 ├── pages/            # Page-level components (templates)
-├── hooks/            # Custom React hooks
+├── store/            # Redux-toolkit (state management)
 └── services/         # API and external service integrations
 ```
 
@@ -85,24 +85,28 @@ src/
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: React 18, JavaScript (ES6+)
+- **Frontend**: React 19, JavaScript (ES6+)
 - **Build Tool**: Vite
 - **Routing**: React Router DOM v6
-- **Styling**: Tailwind CSS v3
+- **State Management**: Redux-toolkit
+- **Styling**: Tailwind CSS v4.1
 - **Icons**: Lucide React
 - **API**: CoinGecko API v3
-- **Development**: ESLint, PostCSS, Autoprefixer
+- **Development**: ESLint,
 
 ## 📱 Screenshots
 
 ### Homepage - Desktop
-![Homepage Desktop](./screenshots/homepage-desktop.png)
+![Homepage](https://github.com/user-attachments/assets/6e92ef4f-ac61-4f74-bbf7-aba7e9ac6b61)
+
 
 ### Homepage - Mobile
-![Homepage Mobile](./screenshots/homepage-mobile.png)
+![Homepage Mobile](https://github.com/user-attachments/assets/7f6d2aec-caad-4dc4-b461-971649e82b8f)
+
 
 ### Converter Page
-![Converter Page](./screenshots/converter.png)
+![Converter Page](https://github.com/user-attachments/assets/818dd8ea-95a2-47e5-9240-6e63d556cfbd)
+
 
 ## 🎨 Design Philosophy
 
