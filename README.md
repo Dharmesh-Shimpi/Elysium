@@ -46,7 +46,7 @@ src/
 │   ├── ui/           # Reusable UI components (atoms)
 │   └── crypto/       # Domain-specific components (molecules)
 ├── pages/            # Page-level components (templates)
-├── hooks/            # Custom React hooks
+├── store/            # Redux-toolkit (state management)
 └── services/         # API and external service integrations
 ```
 
@@ -85,7 +85,7 @@ src/
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: React 18, JavaScript (ES6+)
+- **Frontend**: React 19, JavaScript (ES6+)
 - **Build Tool**: Vite
 - **Routing**: React Router DOM v6
 - **State Management**: Redux-toolkit
