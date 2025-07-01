@@ -2,7 +2,8 @@
 
 A modern, responsive cryptocurrency tracking application built with React and Vite, featuring real-time price data, interactive charts, and currency conversion capabilities.
 
-![Crypto Tracker Screenshot](./screenshots/homepage.png)
+![image](https://github.com/user-attachments/assets/274f629b-01e7-470f-9263-15e9009af041)
+
 
 ## 🚀 Features
 
