@@ -24,6 +24,15 @@ This document outlines the key assumptions made during the development of the Cr
 - **Impact**: This avoids complexity and inconsistency in client-side math, and reduces frontend processing
 - **Limitation**: Accuracy and availability of conversion pairs are fully dependent on API support
 
+## 🧠 AI & Tooling Assumptions
+
+### Freedom to Use AI Tools
+**Assumption**: We are free to use AI tools to assist with development  
+- **Justification**: The project scope did not restrict the use of AI or automated tools  
+- **Usage**: AI was used for code generation, debugging assistance, documentation drafting
+- **Impact**: Significantly reduced development time, improved code quality, and enabled rapid prototyping  
+- **Limitation**: AI-generated content was reviewed manually to ensure accuracy and adherence to project requirements
+
 ---
 
 *These assumptions should be regularly reviewed and updated as the project evolves, user feedback is received, and market conditions change.*
