@@ -105,7 +105,8 @@ src/
 
 
 ### Converter Page
-![Converter Page](./screenshots/converter.png)
+![Converter Page](https://github.com/user-attachments/assets/818dd8ea-95a2-47e5-9240-6e63d556cfbd)
+
 
 ## 🎨 Design Philosophy
 
